@@ -71,4 +71,4 @@ This project introduces a groundbreaking feature—freedom to choose your analys
 ### Data Directions and Instructions Page
 ![Instructions](https://user-images.githubusercontent.com/93984886/225281541-cd73102a-e779-4015-ac3f-485647e25d63.png)
 
-Embark on your journey to LinkedIn success! Visit [LinkedIn Engagement Analysis](https://linkedin-engagement.streamlit.app/) and take control of your social media impact. 🚀✨
+Embark on your journey to LinkedIn success! Visit [LinkedIn Engagement Analysis](https://linkeldn-analysis-streamlit.onrender.com/) and take control of your social media impact. 🚀✨
